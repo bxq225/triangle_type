@@ -34,7 +34,6 @@ public class TriangleType {
         }
     }
 
-
     /**
      * Reads a single side length from user input.
      * Ensures that the entered value is positive.
