@@ -58,7 +58,6 @@ public class TriangleType {
     }
 
     /**
-     * The main entry point of the program.
      * Prompts the user to enter the lengths of three triangle sides,
      * validates input, and prints out the resulting triangle type.
      */
